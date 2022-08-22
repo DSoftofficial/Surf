@@ -1,0 +1,4 @@
+﻿  Surf.cpp
+L:\Surf\Surf Browser\Surf Browser\Surf.cpp(8,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Surf.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Surf Browser.vcxproj -> L:\Surf\Surf Browser\x64\Debug\Surf Browser.exe
